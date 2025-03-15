@@ -5,7 +5,7 @@
 - 21학기: 16학점 + 근로장학 + 멋쟁이사자처럼
 - INTP 아웃사이더 기타등등 
 - \>_< 
-- feat 달게요ㅜㅜ
+- feat 달게요ㅜㅜ;
 
 <img src="img_HYUK/ddaBong.webp" width="300" height="auto">
 <p> (DALL-E로 만들어진 이미지입니다)
