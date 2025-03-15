@@ -55,3 +55,5 @@
 #     <body>
 #       - This reverts commit <revert 대상 커밋의 SHA>
 #       - revert 이유에 대한 명확한 설명
+
+feat: introduce myself
